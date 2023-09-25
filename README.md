@@ -2,8 +2,7 @@
 *It's a cheap, crude, and probably broken game engine written in JS*
 
 ## TODO:
-* Physics *yay* 
-* actual game AI
+
 | Priority 1-9                      | Featue to be added                |
 |:---------------------------------:|:---------------------------------:|
 |9                                  |Physics                            |
