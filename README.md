@@ -11,6 +11,7 @@
 |6                                  |Spawning / Despawning              |
 |7                                  |HUD / GUI                          |
 |7                                  |Menu system                        |
+|4                                  |fix GetElementSize();              |
 
 ## Done:
 * added player control
