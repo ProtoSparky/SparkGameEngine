@@ -4,7 +4,7 @@
 ## TODO:
 
 | Priority 1-9                      | Featue to be added                |
-|:---------------------------------:|:---------------------------------:|
+|:---------------------------------:|-----------------------------------|
 |9                                  |Physics                            |
 |6                                  |Game AI (that doesn't suck)        |
 |4                                  |Player sliding on collision (walls)|
