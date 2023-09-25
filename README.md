@@ -29,7 +29,7 @@
 > I've never said there was any warranty, or promise that it'll be clean. Lower your expectations
 
 **Can i use this in school or other projects?** 
-> Sure! Let your teacher know you stole the code from here, or at least change it up a little. I dont want to be screwed over due to plagirism from myself
+> Sure! Let your teacher know you stole the code from here, or at least change it up a little. I dont want to be screwed over due to plagirism from my own code
 
 ## About
 This is a homemade game engine written in JS during school. If you want to see the original code: [Here it is](https://github.com/ProtoSparky/Sparky-KUB-IT-Work/tree/main/IT2/bits/19.09.2023_custom_game "A lot worse version of the same code that's here")
